@@ -1,17 +1,16 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-1*
-G04 #@! TF.CreationDate,2019-07-21T18:54:46-05:00*
+G04 #@! TF.CreationDate,2019-07-21T19:57:09-05:00*
 G04 #@! TF.ProjectId,reddit-snoo-meetup,72656464-6974-42d7-936e-6f6f2d6d6565,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-1) date 2019-07-21 18:54:46*
+G04 Created by KiCad (PCBNEW (5.1.2)-1) date 2019-07-21 19:57:09*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
 %ADD10C,0.010000*%
-%ADD11C,0.500000*%
 G04 APERTURE END LIST*
 D10*
 G36*
@@ -8816,9 +8815,4 @@ X-6613840Y4406396D01*
 X-6486539Y4418410D01*
 X-6430043Y4419380D01*
 X-6343349Y4417029D01*
-D11*
-X-2530600Y-26187400D02*
-G75*
-G03X-2530600Y-26187400I-1000000J0D01*
-G01*
 M02*
